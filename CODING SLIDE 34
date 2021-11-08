@@ -1,0 +1,12 @@
+package selfprogramming;
+
+public class Slide34 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		final int MIN_HEIGHT = 20;
+		System.out.println(MIN_HEIGHT);
+
+	}
+
+}
