@@ -1,0 +1,24 @@
+package selfprogramming;
+
+public class Slide43 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double amount = 3.99;
+		char firstInitial = 'W';
+		double numberOfCards = 2;
+		double handicap = 4.5;
+		double score = numberOfCards + handicap;
+		int eggsPerBasket = 7;
+		int eggsPerBasket1 = eggsPerBasket - 2;
+		
+		System.out.println(amount);
+		System.out.println(firstInitial);
+		System.out.println(score);
+		System.out.println(eggsPerBasket1);
+
+
+	}
+
+}
+ 
