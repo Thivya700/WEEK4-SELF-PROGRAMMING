@@ -1,0 +1,11 @@
+package selfprogramming;
+
+public class Slide72 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println((35.0 + 22.4 + 11.9) / 3.0);
+
+	}
+
+}
