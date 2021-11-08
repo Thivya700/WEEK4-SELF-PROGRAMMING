@@ -1,0 +1,16 @@
+package selfprogramming;
+
+public class Slide41 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int oneThousand = 1000;   // no problem
+		int oneMillion = 1000 * oneThousand;  // OK
+		int oneBillion = 1000 * oneMillion;   // OK
+		int threeBillion = 2 * oneBillion;
+		System.out.println(threeBillion);   // ??
+
+
+	}
+
+}
