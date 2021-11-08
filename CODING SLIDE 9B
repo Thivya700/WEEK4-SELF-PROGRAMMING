@@ -1,0 +1,16 @@
+package selfprogramming;
+
+public class Slide9b {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//casting
+		int total = 50;
+		float result = (float) total / 6;
+		
+		System.out.println(result);
+
+
+	}
+
+}
