@@ -1,0 +1,15 @@
+package selfprogramming;
+
+public class Slide66 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double balance = 477;
+		double interestRate = 2.5;
+		
+		System.out.println(balance + (interestRate * balance));
+		System.out.println(balance + interestRate * balance); 
+
+	}
+
+}
