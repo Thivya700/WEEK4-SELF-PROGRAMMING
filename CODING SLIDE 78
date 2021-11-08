@@ -1,0 +1,18 @@
+package selfprogramming;
+
+public class Slide78 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int m = 4;
+		int result = 3 * (++m);
+		System.out.println(result);
+		
+		int n = 4;
+		int resultn = 3 * (n++);
+		System.out.println(resultn);
+
+
+	}
+
+}
